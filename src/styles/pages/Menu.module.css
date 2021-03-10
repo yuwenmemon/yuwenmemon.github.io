@@ -1,0 +1,16 @@
+.Menu {
+    background-image: linear-gradient(to bottom right, #2b4ec0, #0bd3f7);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white; 
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    margin: 0; 
+}

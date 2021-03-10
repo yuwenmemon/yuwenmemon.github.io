@@ -1,15 +1,10 @@
-import yuwen from './yuwen.jpg';
-import './App.css';
+import Menu from './pages/Menu';
+import './styles/App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={yuwen} className="App-logo" alt="logo" />
-        <p>
-          Hello World!
-        </p>
-      </header>
+      <Menu />
     </div>
   );
 }
