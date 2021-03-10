@@ -1,4 +1,4 @@
-import styles from '../styles/pages/Menu.module.css';
+import styles from './Menu.module.css';
 
 const Menu = () => {
     return (
